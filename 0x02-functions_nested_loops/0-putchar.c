@@ -1,4 +1,4 @@
-#include "_putchar"
+#include "main.h"
 
 /**
  * main - Entry point
@@ -6,7 +6,7 @@
  * Return: Always returns 0
  *
  */
-int main.h(void)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
